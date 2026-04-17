@@ -15,7 +15,7 @@ export default function ChatInterface({
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      text: '¡Hola! Soy tu asistente de IA. Escribe un prompt y te generaré una respuesta. 🚀',
+      text: '¡Hola! Soy tu asistente de IA. Escribe un prompt y te generaré una respuesta. 🌀',
       meta: null,
     },
   ]);
