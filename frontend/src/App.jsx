@@ -91,7 +91,7 @@ export default function App() {
         {/* Columna izquierda: Chat */}
         <section style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
           <h2 style={{ margin: '0 0 12px', fontWeight: 700, color: '#333', fontSize: '1rem' }}>
-            💬 Chat con IA
+            🖊 Chat con IA
           </h2>
           <ChatInterface
             quotaStatus={status}
